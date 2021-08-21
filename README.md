@@ -1,2 +1,6 @@
-# Wildfire-Tracker
-This allows the user to track Wildfires around the world in realtime
+/*Wildfire tracker*/
+
+This is a wildfire tracker website which allows users to track wildfires around the world in realtime
+Made By:-
+  Abhilash Kumar Behera & Ipsita Behera
+  Branch:CSE
