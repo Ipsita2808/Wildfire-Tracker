@@ -22,6 +22,7 @@ function App() {
         <Route exact path="/" component={Allcomponents} />
         <Route exact path="/about" component={About} />
         <Route exact path="/map" component={Allmap} />
+        <Route exact path="/Wildfire-Tracker/" component={Allcomponents} />
         <Route component={Error} />
       </Switch>
     </div>
